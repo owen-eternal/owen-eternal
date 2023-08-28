@@ -26,3 +26,8 @@ Dive into a curated collection of projects, experiments, and explorations that e
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<br><br>
+
+### Github Stats 📊
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-eternal&show_icons=true&theme=gruvbox)
