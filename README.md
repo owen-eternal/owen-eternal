@@ -9,9 +9,12 @@ Welcome to my corner of the digital universe! 👋 As a dedicated Platform Engin
 
 Dive into a curated collection of projects, experiments, and explorations that embody my passion for creating innovative web experiences. From cutting-edge frontend frameworks to robust backend architectures, this repository is a testament to my commitment to pushing boundaries.
 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olwethuphakade89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-phakade-423862138/)
+
 ---
 
-### Languages and tools
+### Languages and tools I use:
 
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
